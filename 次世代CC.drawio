@@ -237,10 +237,10 @@
           <mxGeometry height="30" width="162" x="1320" y="418" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Conversation Intelligence Rule" vertex="1">
-          <mxGeometry height="35" width="104" x="1401" y="451" as="geometry" />
+          <mxGeometry height="35" width="191" x="1303" y="450" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Einstein Next Best Action" vertex="1">
-          <mxGeometry height="35" width="108" x="1401" y="497" as="geometry" />
+          <mxGeometry height="35" width="192" x="1303" y="497" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Knowledge" vertex="1">
           <mxGeometry height="35" width="90" x="1153" y="299.25" as="geometry" />
@@ -261,7 +261,7 @@
           <mxGeometry height="20.5" width="50" x="953" y="541" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Recommendation Strategy" vertex="1">
-          <mxGeometry height="35" width="108" x="1401" y="541.25" as="geometry" />
+          <mxGeometry height="35" width="191" x="1303" y="544" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-79" parent="1" style="shape=doubleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="20.5" width="50" x="953" y="306.5" as="geometry" />
