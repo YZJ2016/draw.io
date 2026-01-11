@@ -329,6 +329,9 @@
         <mxCell id="1bbQ-DlNJb_BoxcL2CJU-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Call Recording Player" vertex="1">
           <mxGeometry height="35" width="90" x="1260.5" y="352" as="geometry" />
         </mxCell>
+        <mxCell id="1bbQ-DlNJb_BoxcL2CJU-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="Platform Event Bus" vertex="1">
+          <mxGeometry height="35" width="90" x="1167" y="508" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
