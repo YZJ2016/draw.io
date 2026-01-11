@@ -326,6 +326,9 @@
         <mxCell id="1bbQ-DlNJb_BoxcL2CJU-8" edge="1" parent="1" source="1bbQ-DlNJb_BoxcL2CJU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.119;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" target="jkkgOJ9nRlptmg0NyvUI-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1bbQ-DlNJb_BoxcL2CJU-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Call Recording Player" vertex="1">
+          <mxGeometry height="35" width="90" x="1260.5" y="352" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
