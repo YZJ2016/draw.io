@@ -279,7 +279,7 @@
           <mxGeometry height="30" width="60" x="1400" y="243.5" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Einstein Conversation Insights&lt;div&gt;/Einstein&amp;nbsp; AI&lt;/div&gt;" vertex="1">
-          <mxGeometry height="42" width="245" x="1023" y="419.25" as="geometry" />
+          <mxGeometry height="42" width="245" x="1026" y="419.25" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-89" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="" vertex="1">
           <mxGeometry height="55" width="30" x="1034" y="595" as="geometry" />
@@ -310,6 +310,18 @@
         </mxCell>
         <mxCell id="1bbQ-DlNJb_BoxcL2CJU-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Einstein&amp;nbsp;&lt;div&gt;Search&lt;/div&gt;" vertex="1">
           <mxGeometry height="35" width="90" x="1153" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="1bbQ-DlNJb_BoxcL2CJU-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
+          <mxGeometry height="112" width="117" x="1028" y="476.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1bbQ-DlNJb_BoxcL2CJU-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="API" vertex="1">
+          <mxGeometry height="28" width="71" x="1049.5" y="484" as="geometry" />
+        </mxCell>
+        <mxCell id="1bbQ-DlNJb_BoxcL2CJU-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="Apex" vertex="1">
+          <mxGeometry height="28" width="71" x="1048.5" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="1bbQ-DlNJb_BoxcL2CJU-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="Flow" vertex="1">
+          <mxGeometry height="28" width="71" x="1049.5" y="555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
