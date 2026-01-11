@@ -279,7 +279,7 @@
           <mxGeometry height="30" width="60" x="1400" y="243.5" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Einstein Conversation Insights&lt;div&gt;/Einstein&amp;nbsp; AI&lt;/div&gt;" vertex="1">
-          <mxGeometry height="42" width="245" x="1026" y="419.25" as="geometry" />
+          <mxGeometry height="42" width="160" x="1111" y="419.25" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-89" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="" vertex="1">
           <mxGeometry height="55" width="30" x="1034" y="595" as="geometry" />
@@ -322,6 +322,9 @@
         </mxCell>
         <mxCell id="1bbQ-DlNJb_BoxcL2CJU-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="Flow" vertex="1">
           <mxGeometry height="28" width="71" x="1049.5" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="1bbQ-DlNJb_BoxcL2CJU-8" edge="1" parent="1" source="1bbQ-DlNJb_BoxcL2CJU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.119;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" target="jkkgOJ9nRlptmg0NyvUI-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
