@@ -215,8 +215,8 @@
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-54" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="電話対応オペレーター" vertex="1">
           <mxGeometry height="34.29" width="17" x="1331" y="123.71" as="geometry" />
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-55" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="人工客服管理者" vertex="1">
-          <mxGeometry height="35" width="17" x="1548" y="126.29" as="geometry" />
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-55" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="管理者" vertex="1">
+          <mxGeometry height="35" width="17" x="1425" y="126.29" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
           <mxGeometry height="180" width="486" x="1028" y="220" as="geometry" />
