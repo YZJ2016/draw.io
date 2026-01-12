@@ -299,7 +299,7 @@
             <mxPoint x="17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="&lt;strong data-start=&quot;0&quot; data-end=&quot;18&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;支援&lt;/strong&gt;&lt;strong data-start=&quot;0&quot; data-end=&quot;18&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot; style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;エージェント&lt;/strong&gt;" vertex="1">
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="支援エージェント" vertex="1">
           <mxGeometry height="33" width="84" x="1043" y="352" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Enhanced Conversation" vertex="1">
