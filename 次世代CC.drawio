@@ -272,10 +272,10 @@
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
           <mxGeometry height="124" width="99" x="1385" y="259" as="geometry" />
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CSV File" vertex="1">
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CSVファイル" vertex="1">
           <mxGeometry height="35" width="90" x="1390.5" y="291.5" as="geometry" />
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Excel File" vertex="1">
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Excelファイル" vertex="1">
           <mxGeometry height="35" width="90" x="1390.5" y="337" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="輸出" vertex="1">
