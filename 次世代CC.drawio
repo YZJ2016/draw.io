@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Page-1" id="_wxwCATde3KuaQCq8ndW">
     <mxGraphModel dx="1000" dy="597" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -248,7 +248,7 @@
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Knowledge" vertex="1">
           <mxGeometry height="35" width="90" x="1153" y="299.25" as="geometry" />
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Omni Supervisor" vertex="1">
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="オムニスーパーバイザー" vertex="1">
           <mxGeometry height="35" width="90" x="1043" y="300.5" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-87" edge="1" parent="1" source="jkkgOJ9nRlptmg0NyvUI-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="jkkgOJ9nRlptmg0NyvUI-82">
@@ -302,7 +302,7 @@
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="支援エージェント" vertex="1">
           <mxGeometry height="33" width="84" x="1043" y="352" as="geometry" />
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Enhanced Conversation" vertex="1">
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="拡張会話" vertex="1">
           <mxGeometry height="35" width="90" x="1044" y="255.5" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="User Management" vertex="1">
