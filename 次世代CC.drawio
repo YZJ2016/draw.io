@@ -281,7 +281,7 @@
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Export" vertex="1">
           <mxGeometry height="31" width="60" x="1400" y="261" as="geometry" />
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Einstein Conversation Insights&lt;div&gt;/Einstein&amp;nbsp; AI&lt;/div&gt;" vertex="1">
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Einstein 会話インサイト&lt;div&gt;/Einstein&amp;nbsp; AI&lt;/div&gt;" vertex="1">
           <mxGeometry height="42" width="122" x="1099" y="414.25" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-89" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="" vertex="1">
