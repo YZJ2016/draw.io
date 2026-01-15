@@ -332,7 +332,7 @@
         <mxCell id="1bbQ-DlNJb_BoxcL2CJU-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="通話録音プレーヤー" vertex="1">
           <mxGeometry height="35" width="90" x="1260.5" y="352" as="geometry" />
         </mxCell>
-        <mxCell id="1bbQ-DlNJb_BoxcL2CJU-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="Platform Event Bus" vertex="1">
+        <mxCell id="1bbQ-DlNJb_BoxcL2CJU-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="プラットフォームイベント" vertex="1">
           <mxGeometry height="33" width="90" x="1167" y="496" as="geometry" />
         </mxCell>
         <mxCell id="1bbQ-DlNJb_BoxcL2CJU-11" edge="1" parent="1" source="jkkgOJ9nRlptmg0NyvUI-67" style="endArrow=classic;html=1;rounded=0;exitX=0.008;exitY=0.871;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
