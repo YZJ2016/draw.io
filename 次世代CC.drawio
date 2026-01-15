@@ -120,10 +120,10 @@
         <mxCell id="Zjsb9ScpiXSeYxXOzFkQ-66" parent="1" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="" vertex="1">
           <mxGeometry height="55" width="30" x="674" y="592" as="geometry" />
         </mxCell>
-        <mxCell id="Zjsb9ScpiXSeYxXOzFkQ-68" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="Relationship&amp;nbsp; Data" vertex="1">
+        <mxCell id="Zjsb9ScpiXSeYxXOzFkQ-68" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="関係データ" vertex="1">
           <mxGeometry height="43" width="91" x="828" y="686" as="geometry" />
         </mxCell>
-        <mxCell id="Zjsb9ScpiXSeYxXOzFkQ-69" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="TextData" vertex="1">
+        <mxCell id="Zjsb9ScpiXSeYxXOzFkQ-69" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="テキストデータ" vertex="1">
           <mxGeometry height="49" width="73" x="991" y="686" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;gradientColor=default;flipH=1;" value="Einstein&amp;nbsp;&lt;br&gt;Trust&amp;nbsp;&lt;br&gt;Layer" vertex="1">
