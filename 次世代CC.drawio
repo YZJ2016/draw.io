@@ -242,7 +242,7 @@
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="会話インテリジェンスルール" vertex="1">
           <mxGeometry height="35" width="191" x="1303" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Einstein Next Best Action" vertex="1">
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Einstein 次の最適アクション" vertex="1">
           <mxGeometry height="35" width="192" x="1303" y="497" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ナレッジ" vertex="1">
