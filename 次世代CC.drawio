@@ -236,7 +236,7 @@
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="" vertex="1">
           <mxGeometry height="170" width="239" x="1279" y="416" as="geometry" />
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Conversation Intelligence" vertex="1">
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="会話インテリジェンス" vertex="1">
           <mxGeometry height="30" width="162" x="1320" y="418" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="会話インテリジェンスルール" vertex="1">
