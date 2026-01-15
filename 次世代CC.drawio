@@ -254,10 +254,10 @@
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-87" edge="1" parent="1" source="jkkgOJ9nRlptmg0NyvUI-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="jkkgOJ9nRlptmg0NyvUI-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Reports" vertex="1">
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="レポート" vertex="1">
           <mxGeometry height="40" width="85" x="1264.5" y="252" as="geometry" />
         </mxCell>
-        <mxCell id="jkkgOJ9nRlptmg0NyvUI-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Dashboard" vertex="1">
+        <mxCell id="jkkgOJ9nRlptmg0NyvUI-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="ダッシュボード" vertex="1">
           <mxGeometry height="40" width="87" x="1263.5" y="301" as="geometry" />
         </mxCell>
         <mxCell id="jkkgOJ9nRlptmg0NyvUI-77" parent="1" style="shape=doubleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="" vertex="1">
